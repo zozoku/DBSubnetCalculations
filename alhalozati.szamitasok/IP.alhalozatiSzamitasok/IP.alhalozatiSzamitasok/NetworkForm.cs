@@ -1,4 +1,5 @@
-﻿// készítette 13b /1csoport/, befejezte:  KZ
+﻿// készítette: 2/14e Ipari inf. csoportja
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,9 +12,9 @@ using System.Windows.Forms;
 
 namespace AlhalozatiSzamitasok
 {
-    public partial class Form1 : Form
+    public partial class NetworkForm : Form
     {
-        public Form1()
+        public NetworkForm()
         {
             InitializeComponent();
             PontozottDecIP = "0.0.0.0";
