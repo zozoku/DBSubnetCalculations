@@ -92,7 +92,7 @@
             // TBIPbekeres
             // 
             this.TBIPbekeres.Location = new System.Drawing.Point(27, 64);
-            this.TBIPbekeres.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBIPbekeres.Margin = new System.Windows.Forms.Padding(4);
             this.TBIPbekeres.Name = "TBIPbekeres";
             this.TBIPbekeres.Size = new System.Drawing.Size(132, 22);
             this.TBIPbekeres.TabIndex = 0;
@@ -122,7 +122,7 @@
             // TBosztaly
             // 
             this.TBosztaly.Location = new System.Drawing.Point(401, 39);
-            this.TBosztaly.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBosztaly.Margin = new System.Windows.Forms.Padding(4);
             this.TBosztaly.Name = "TBosztaly";
             this.TBosztaly.Size = new System.Drawing.Size(51, 22);
             this.TBosztaly.TabIndex = 3;
@@ -130,7 +130,7 @@
             // TBosztalykiiras
             // 
             this.TBosztalykiiras.Location = new System.Drawing.Point(461, 39);
-            this.TBosztalykiiras.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBosztalykiiras.Margin = new System.Windows.Forms.Padding(4);
             this.TBosztalykiiras.Name = "TBosztalykiiras";
             this.TBosztalykiiras.Size = new System.Drawing.Size(500, 22);
             this.TBosztalykiiras.TabIndex = 4;
@@ -147,34 +147,38 @@
             // 
             // TBbin1
             // 
+            this.TBbin1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbin1.Location = new System.Drawing.Point(401, 73);
-            this.TBbin1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbin1.Margin = new System.Windows.Forms.Padding(4);
             this.TBbin1.Name = "TBbin1";
-            this.TBbin1.Size = new System.Drawing.Size(132, 22);
+            this.TBbin1.Size = new System.Drawing.Size(132, 27);
             this.TBbin1.TabIndex = 6;
             // 
             // TBbin2
             // 
+            this.TBbin2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbin2.Location = new System.Drawing.Point(544, 73);
-            this.TBbin2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbin2.Margin = new System.Windows.Forms.Padding(4);
             this.TBbin2.Name = "TBbin2";
-            this.TBbin2.Size = new System.Drawing.Size(132, 22);
+            this.TBbin2.Size = new System.Drawing.Size(132, 27);
             this.TBbin2.TabIndex = 7;
             // 
             // TBbin3
             // 
+            this.TBbin3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbin3.Location = new System.Drawing.Point(685, 73);
-            this.TBbin3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbin3.Margin = new System.Windows.Forms.Padding(4);
             this.TBbin3.Name = "TBbin3";
-            this.TBbin3.Size = new System.Drawing.Size(132, 22);
+            this.TBbin3.Size = new System.Drawing.Size(132, 27);
             this.TBbin3.TabIndex = 8;
             // 
             // TBbin4
             // 
+            this.TBbin4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbin4.Location = new System.Drawing.Point(827, 73);
-            this.TBbin4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbin4.Margin = new System.Windows.Forms.Padding(4);
             this.TBbin4.Name = "TBbin4";
-            this.TBbin4.Size = new System.Drawing.Size(132, 22);
+            this.TBbin4.Size = new System.Drawing.Size(132, 27);
             this.TBbin4.TabIndex = 9;
             // 
             // label4
@@ -189,34 +193,38 @@
             // 
             // TBbinmaszk1
             // 
+            this.TBbinmaszk1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbinmaszk1.Location = new System.Drawing.Point(401, 122);
-            this.TBbinmaszk1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbinmaszk1.Margin = new System.Windows.Forms.Padding(4);
             this.TBbinmaszk1.Name = "TBbinmaszk1";
-            this.TBbinmaszk1.Size = new System.Drawing.Size(132, 22);
+            this.TBbinmaszk1.Size = new System.Drawing.Size(132, 27);
             this.TBbinmaszk1.TabIndex = 11;
             // 
             // TBbinmaszk2
             // 
+            this.TBbinmaszk2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbinmaszk2.Location = new System.Drawing.Point(544, 121);
-            this.TBbinmaszk2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbinmaszk2.Margin = new System.Windows.Forms.Padding(4);
             this.TBbinmaszk2.Name = "TBbinmaszk2";
-            this.TBbinmaszk2.Size = new System.Drawing.Size(132, 22);
+            this.TBbinmaszk2.Size = new System.Drawing.Size(132, 27);
             this.TBbinmaszk2.TabIndex = 12;
             // 
             // TBbinmaszk3
             // 
+            this.TBbinmaszk3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbinmaszk3.Location = new System.Drawing.Point(687, 121);
-            this.TBbinmaszk3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbinmaszk3.Margin = new System.Windows.Forms.Padding(4);
             this.TBbinmaszk3.Name = "TBbinmaszk3";
-            this.TBbinmaszk3.Size = new System.Drawing.Size(132, 22);
+            this.TBbinmaszk3.Size = new System.Drawing.Size(132, 27);
             this.TBbinmaszk3.TabIndex = 13;
             // 
             // TBbinmaszk4
             // 
+            this.TBbinmaszk4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBbinmaszk4.Location = new System.Drawing.Point(827, 122);
-            this.TBbinmaszk4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBbinmaszk4.Margin = new System.Windows.Forms.Padding(4);
             this.TBbinmaszk4.Name = "TBbinmaszk4";
-            this.TBbinmaszk4.Size = new System.Drawing.Size(132, 22);
+            this.TBbinmaszk4.Size = new System.Drawing.Size(132, 27);
             this.TBbinmaszk4.TabIndex = 14;
             // 
             // label5
@@ -231,34 +239,38 @@
             // 
             // TBdecmaszk1
             // 
+            this.TBdecmaszk1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBdecmaszk1.Location = new System.Drawing.Point(403, 177);
-            this.TBdecmaszk1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBdecmaszk1.Margin = new System.Windows.Forms.Padding(4);
             this.TBdecmaszk1.Name = "TBdecmaszk1";
-            this.TBdecmaszk1.Size = new System.Drawing.Size(49, 22);
+            this.TBdecmaszk1.Size = new System.Drawing.Size(49, 27);
             this.TBdecmaszk1.TabIndex = 16;
             // 
             // TBdecmaszk2
             // 
+            this.TBdecmaszk2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBdecmaszk2.Location = new System.Drawing.Point(461, 177);
-            this.TBdecmaszk2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBdecmaszk2.Margin = new System.Windows.Forms.Padding(4);
             this.TBdecmaszk2.Name = "TBdecmaszk2";
-            this.TBdecmaszk2.Size = new System.Drawing.Size(49, 22);
+            this.TBdecmaszk2.Size = new System.Drawing.Size(49, 27);
             this.TBdecmaszk2.TabIndex = 17;
             // 
             // TBdecmaszk3
             // 
+            this.TBdecmaszk3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBdecmaszk3.Location = new System.Drawing.Point(520, 177);
-            this.TBdecmaszk3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBdecmaszk3.Margin = new System.Windows.Forms.Padding(4);
             this.TBdecmaszk3.Name = "TBdecmaszk3";
-            this.TBdecmaszk3.Size = new System.Drawing.Size(49, 22);
+            this.TBdecmaszk3.Size = new System.Drawing.Size(49, 27);
             this.TBdecmaszk3.TabIndex = 18;
             // 
             // TBdecmaszk4
             // 
+            this.TBdecmaszk4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.TBdecmaszk4.Location = new System.Drawing.Point(579, 177);
-            this.TBdecmaszk4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBdecmaszk4.Margin = new System.Windows.Forms.Padding(4);
             this.TBdecmaszk4.Name = "TBdecmaszk4";
-            this.TBdecmaszk4.Size = new System.Drawing.Size(49, 22);
+            this.TBdecmaszk4.Size = new System.Drawing.Size(49, 27);
             this.TBdecmaszk4.TabIndex = 19;
             // 
             // label6
@@ -274,7 +286,7 @@
             // Bbalra
             // 
             this.Bbalra.Location = new System.Drawing.Point(403, 234);
-            this.Bbalra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Bbalra.Margin = new System.Windows.Forms.Padding(4);
             this.Bbalra.Name = "Bbalra";
             this.Bbalra.Size = new System.Drawing.Size(51, 28);
             this.Bbalra.TabIndex = 21;
@@ -284,7 +296,7 @@
             // Bjobbra
             // 
             this.Bjobbra.Location = new System.Drawing.Point(563, 233);
-            this.Bjobbra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Bjobbra.Margin = new System.Windows.Forms.Padding(4);
             this.Bjobbra.Name = "Bjobbra";
             this.Bjobbra.Size = new System.Drawing.Size(49, 28);
             this.Bjobbra.TabIndex = 22;
@@ -294,7 +306,7 @@
             // TBprefix
             // 
             this.TBprefix.Location = new System.Drawing.Point(463, 236);
-            this.TBprefix.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBprefix.Margin = new System.Windows.Forms.Padding(4);
             this.TBprefix.Name = "TBprefix";
             this.TBprefix.Size = new System.Drawing.Size(91, 22);
             this.TBprefix.TabIndex = 23;
@@ -365,7 +377,7 @@
             // TBhalozaticim
             // 
             this.TBhalozaticim.Location = new System.Drawing.Point(401, 329);
-            this.TBhalozaticim.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBhalozaticim.Margin = new System.Windows.Forms.Padding(4);
             this.TBhalozaticim.Name = "TBhalozaticim";
             this.TBhalozaticim.Size = new System.Drawing.Size(209, 22);
             this.TBhalozaticim.TabIndex = 31;
@@ -373,7 +385,7 @@
             // TBelsoIP
             // 
             this.TBelsoIP.Location = new System.Drawing.Point(401, 366);
-            this.TBelsoIP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBelsoIP.Margin = new System.Windows.Forms.Padding(4);
             this.TBelsoIP.Name = "TBelsoIP";
             this.TBelsoIP.Size = new System.Drawing.Size(209, 22);
             this.TBelsoIP.TabIndex = 32;
@@ -381,7 +393,7 @@
             // TButolsoIP
             // 
             this.TButolsoIP.Location = new System.Drawing.Point(401, 404);
-            this.TButolsoIP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TButolsoIP.Margin = new System.Windows.Forms.Padding(4);
             this.TButolsoIP.Name = "TButolsoIP";
             this.TButolsoIP.Size = new System.Drawing.Size(209, 22);
             this.TButolsoIP.TabIndex = 33;
@@ -389,7 +401,7 @@
             // TBszorasiIP
             // 
             this.TBszorasiIP.Location = new System.Drawing.Point(401, 441);
-            this.TBszorasiIP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBszorasiIP.Margin = new System.Windows.Forms.Padding(4);
             this.TBszorasiIP.Name = "TBszorasiIP";
             this.TBszorasiIP.Size = new System.Drawing.Size(209, 22);
             this.TBszorasiIP.TabIndex = 34;
@@ -397,7 +409,7 @@
             // TBervenyesIP
             // 
             this.TBervenyesIP.Location = new System.Drawing.Point(401, 479);
-            this.TBervenyesIP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBervenyesIP.Margin = new System.Windows.Forms.Padding(4);
             this.TBervenyesIP.Name = "TBervenyesIP";
             this.TBervenyesIP.Size = new System.Drawing.Size(209, 22);
             this.TBervenyesIP.TabIndex = 35;
@@ -405,7 +417,7 @@
             // B7
             // 
             this.B7.Location = new System.Drawing.Point(25, 96);
-            this.B7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B7.Margin = new System.Windows.Forms.Padding(4);
             this.B7.Name = "B7";
             this.B7.Size = new System.Drawing.Size(39, 28);
             this.B7.TabIndex = 37;
@@ -416,7 +428,7 @@
             // B6
             // 
             this.B6.Location = new System.Drawing.Point(121, 132);
-            this.B6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B6.Margin = new System.Windows.Forms.Padding(4);
             this.B6.Name = "B6";
             this.B6.Size = new System.Drawing.Size(39, 28);
             this.B6.TabIndex = 38;
@@ -427,7 +439,7 @@
             // B5
             // 
             this.B5.Location = new System.Drawing.Point(73, 132);
-            this.B5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B5.Margin = new System.Windows.Forms.Padding(4);
             this.B5.Name = "B5";
             this.B5.Size = new System.Drawing.Size(39, 28);
             this.B5.TabIndex = 39;
@@ -438,7 +450,7 @@
             // B4
             // 
             this.B4.Location = new System.Drawing.Point(27, 132);
-            this.B4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B4.Margin = new System.Windows.Forms.Padding(4);
             this.B4.Name = "B4";
             this.B4.Size = new System.Drawing.Size(39, 28);
             this.B4.TabIndex = 40;
@@ -449,7 +461,7 @@
             // B9
             // 
             this.B9.Location = new System.Drawing.Point(121, 96);
-            this.B9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B9.Margin = new System.Windows.Forms.Padding(4);
             this.B9.Name = "B9";
             this.B9.Size = new System.Drawing.Size(39, 28);
             this.B9.TabIndex = 41;
@@ -460,7 +472,7 @@
             // B8
             // 
             this.B8.Location = new System.Drawing.Point(72, 96);
-            this.B8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B8.Margin = new System.Windows.Forms.Padding(4);
             this.B8.Name = "B8";
             this.B8.Size = new System.Drawing.Size(39, 28);
             this.B8.TabIndex = 42;
@@ -471,7 +483,7 @@
             // B3
             // 
             this.B3.Location = new System.Drawing.Point(121, 167);
-            this.B3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B3.Margin = new System.Windows.Forms.Padding(4);
             this.B3.Name = "B3";
             this.B3.Size = new System.Drawing.Size(39, 28);
             this.B3.TabIndex = 43;
@@ -482,7 +494,7 @@
             // B2
             // 
             this.B2.Location = new System.Drawing.Point(72, 167);
-            this.B2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B2.Margin = new System.Windows.Forms.Padding(4);
             this.B2.Name = "B2";
             this.B2.Size = new System.Drawing.Size(39, 28);
             this.B2.TabIndex = 44;
@@ -493,7 +505,7 @@
             // B11
             // 
             this.B11.Location = new System.Drawing.Point(27, 167);
-            this.B11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B11.Margin = new System.Windows.Forms.Padding(4);
             this.B11.Name = "B11";
             this.B11.Size = new System.Drawing.Size(39, 28);
             this.B11.TabIndex = 45;
@@ -505,7 +517,7 @@
             // 
             this.Bok.BackColor = System.Drawing.Color.Red;
             this.Bok.Location = new System.Drawing.Point(121, 203);
-            this.Bok.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Bok.Margin = new System.Windows.Forms.Padding(4);
             this.Bok.Name = "Bok";
             this.Bok.Size = new System.Drawing.Size(39, 28);
             this.Bok.TabIndex = 46;
@@ -516,7 +528,7 @@
             // Bpont
             // 
             this.Bpont.Location = new System.Drawing.Point(73, 203);
-            this.Bpont.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Bpont.Margin = new System.Windows.Forms.Padding(4);
             this.Bpont.Name = "Bpont";
             this.Bpont.Size = new System.Drawing.Size(39, 28);
             this.Bpont.TabIndex = 47;
@@ -527,7 +539,7 @@
             // B0
             // 
             this.B0.Location = new System.Drawing.Point(27, 203);
-            this.B0.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.B0.Margin = new System.Windows.Forms.Padding(4);
             this.B0.Name = "B0";
             this.B0.Size = new System.Drawing.Size(39, 28);
             this.B0.TabIndex = 48;
@@ -539,7 +551,7 @@
             // 
             this.Btorles.BackColor = System.Drawing.Color.Gold;
             this.Btorles.Location = new System.Drawing.Point(27, 240);
-            this.Btorles.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Btorles.Margin = new System.Windows.Forms.Padding(4);
             this.Btorles.Name = "Btorles";
             this.Btorles.Size = new System.Drawing.Size(84, 28);
             this.Btorles.TabIndex = 49;
@@ -550,7 +562,7 @@
             // Bvissza
             // 
             this.Bvissza.Location = new System.Drawing.Point(121, 239);
-            this.Bvissza.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Bvissza.Margin = new System.Windows.Forms.Padding(4);
             this.Bvissza.Name = "Bvissza";
             this.Bvissza.Size = new System.Drawing.Size(39, 28);
             this.Bvissza.TabIndex = 50;
@@ -561,7 +573,7 @@
             // TBkolcsonbitek
             // 
             this.TBkolcsonbitek.Location = new System.Drawing.Point(403, 287);
-            this.TBkolcsonbitek.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TBkolcsonbitek.Margin = new System.Windows.Forms.Padding(4);
             this.TBkolcsonbitek.Name = "TBkolcsonbitek";
             this.TBkolcsonbitek.Size = new System.Drawing.Size(49, 22);
             this.TBkolcsonbitek.TabIndex = 51;
@@ -570,7 +582,7 @@
             // kilepButton
             // 
             this.kilepButton.Location = new System.Drawing.Point(800, 455);
-            this.kilepButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.kilepButton.Margin = new System.Windows.Forms.Padding(4);
             this.kilepButton.Name = "kilepButton";
             this.kilepButton.Size = new System.Drawing.Size(159, 46);
             this.kilepButton.TabIndex = 52;
@@ -586,7 +598,7 @@
             this.helpMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1015, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1015, 30);
             this.menuStrip1.TabIndex = 53;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -597,26 +609,26 @@
             this.saveMenuItem,
             this.exitMenuItem});
             this.fileMenuItem.Name = "fileMenuItem";
-            this.fileMenuItem.Size = new System.Drawing.Size(46, 24);
+            this.fileMenuItem.Size = new System.Drawing.Size(46, 26);
             this.fileMenuItem.Text = "File";
             // 
             // saveMenuItem
             // 
             this.saveMenuItem.Name = "saveMenuItem";
-            this.saveMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.saveMenuItem.Size = new System.Drawing.Size(123, 26);
             this.saveMenuItem.Text = "Save";
             // 
             // exitMenuItem
             // 
             this.exitMenuItem.Name = "exitMenuItem";
-            this.exitMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.exitMenuItem.Size = new System.Drawing.Size(123, 26);
             this.exitMenuItem.Text = "Exit";
             this.exitMenuItem.Click += new System.EventHandler(this.exitMenuItem_Click);
             // 
             // helpMenuItem
             // 
             this.helpMenuItem.Name = "helpMenuItem";
-            this.helpMenuItem.Size = new System.Drawing.Size(55, 24);
+            this.helpMenuItem.Size = new System.Drawing.Size(55, 26);
             this.helpMenuItem.Text = "Help";
             // 
             // button1
@@ -629,7 +641,7 @@
             this.button1.Text = "Mentés";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // NetworkForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -690,8 +702,8 @@
             this.ForeColor = System.Drawing.Color.DarkBlue;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "NetworkForm";
             this.Text = "Alhálózati számítások (IP, maszk ...)";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

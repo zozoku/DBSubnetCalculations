@@ -1,0 +1,35 @@
+2022. március 25.
+
+mgj. 	Lajos hiányzott
+
+
+1.	tanár:			Számbillentyűk (mint utóbb kiderült, már meg volt) :)
+2.	Gergő:			"Osztály" mező meghatározása (már meg volt) :)
+3.	Nándi:			OK - gomb hatása: érvénytelen IP esetén üzenet dob 
+					(egyelőre dobjon helyes IP esetén is) - (már meg volt) :)
+4.	Zsombor 
+	és Dani:		prefix léptetés + "Decimális maszk megjelenítése"
+5.	Nándi:			Kölcsönvett bit + bináris IP (ennek megoldása részleges --> javítani kell)
+6.	Gergő:			Első IP cím
+
+
+2022. április 1
+
+7.  tanár:			--> ezt bárki elkérheti, sok pont jár érte (egyik érdemjegye legalább közepes)
+					hálózati cím 
+8.	Lajos:			Utolsó IP cím a hálózaton
+9.	Nándi:			Szórási cím
+10. Dani:			Érvényes IP címek száma a hálózaton
+11. tanár:			IP osztály - "class IPv4 { //...}" - elkészítése		/*	? Nándi és Lajos jelezheti MA, ha átvállalja valamelyikük  */
+12. Gergő:			Megjelenítés - az adatok /és számítások adatainak/ megjelenítése a megfelelő vizuális elemekben (TextBox-ok, ... stb.)
+
+
+
+2022. április 8
+
+13. Mindenki:		"Mentés" nyomógomb funkció kódolása
+					(1)		szöveges állományba
+					(2)		adatbázisba
+14. Mindenki:		adatbázis megtervezése, leadása; 
+					utána közös megbeszélése ezekenek, majd egységesítés/kiválasztás 
+

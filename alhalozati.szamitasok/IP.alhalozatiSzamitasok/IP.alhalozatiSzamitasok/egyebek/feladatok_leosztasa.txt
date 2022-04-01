@@ -1,0 +1,14 @@
+2022. március 25.
+
+mgj. 	Lajos hiányzott
+
+
+1.	tanár:  Számbillentyűk (mint utóbb kiderült, már meg volt) :)
+2.	Gergő: "Osztály" mező meghatározása (már meg volt) :)
+3.	Nándi: OK - gomb hatása: érvénytelen IP esetén üzenet dob 
+	(egyelőre dobjon helyes IP esetén is) - (már meg volt) :)
+4.	Zsombor és Dani:  prefix léptetés + "Decimális maszk megjelenítése"
+5.	Nándi: Kölcsönvett bit + bináris IP
+6.	Gergő: Első IP cím
+
+
