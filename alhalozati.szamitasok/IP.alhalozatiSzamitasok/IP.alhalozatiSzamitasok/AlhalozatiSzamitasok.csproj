@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IPProtocoll.cs" />
+    <Compile Include="IPv6.cs" />
     <Compile Include="NetworkForm.cs">
       <SubType>Form</SubType>
     </Compile>
