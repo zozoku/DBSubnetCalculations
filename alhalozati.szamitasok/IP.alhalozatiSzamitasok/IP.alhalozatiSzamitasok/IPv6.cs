@@ -1,6 +1,6 @@
 ﻿namespace IP.alhalozatiSzamitasok
 {
-    class IPv6
+    class IPv6Teszt
     { 
     }
 }

@@ -739,7 +739,7 @@
         private System.Windows.Forms.Button Bjobbra;
         private System.Windows.Forms.TextBox TBprefix;
         private System.Windows.Forms.Label label7;
-        //private System.Windows.Forms.TextBox textBox17;
+        private System.Windows.Forms.TextBox textBox17;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
